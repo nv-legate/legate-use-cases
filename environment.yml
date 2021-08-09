@@ -1,0 +1,12 @@
+name: legate-use-cases
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pip
+  - python=3.8
+  - scikit-learn
+  - scipy
